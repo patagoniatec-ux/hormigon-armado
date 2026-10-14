@@ -1,8 +1,101 @@
 {
- "schemaVersion":1,
- "settings":{"siteName":"Hormigón Armado","school":"CET Nº 33","specialty":"Maestro Mayor de Obras","tagline":"Aprender cómo trabaja una estructura","intro":"Del comportamiento estructural a los planos y detalles de obra.","instagram":"","email":"","portal":""},
- "pages":{"unidades":{"title":"Unidades de aprendizaje","description":"Recorrer los conceptos, comprender el comportamiento y llevarlos al plano."},"material":{"title":"Material de consulta","description":"Bibliografía, reglamentos y apuntes para acompañar el trabajo en clase."},"practicos":{"title":"Trabajos prácticos","description":"Consignas y documentación para aprender haciendo."},"proyecto":{"title":"Proyecto integrador","description":"Del planteo estructural a los planos y detalles de obra."},"inet":{"title":"Recursos INET","description":"Un espacio para reunir materiales de formación técnica."},"movimiento":{"title":"Hormigón en movimiento","description":"Videos y animaciones para comprender cómo trabaja una estructura."},"calendario":{"title":"Calendario","description":"Entregas, evaluaciones y encuentros de la materia."},"libro":{"title":"Libro de temas","description":"Una memoria de lo que vamos trabajando, clase a clase."},"galeria":{"title":"Trabajos de los estudiantes","description":"Planos, detalles, maquetas y experiencias que construimos en el aula."},"colaboradores":{"title":"Red de colaboradores","description":"Un puente entre el aula y la práctica profesional."},"contacto":{"title":"Contacto","description":"Un espacio para consultas sobre la materia y propuestas de colaboración."}},
- "topics":[{"id":"ejemplo-flexion","title":"Flexión en vigas","description":"Tracción, compresión y ubicación de las armaduras.","date":"","url":"","example":true}],
- "units":[{"id":"unidad-1","title":"Materiales y comportamiento estructural","description":"Hormigón, acero y trabajo conjunto de los materiales.","url":"","example":true},{"id":"unidad-2","title":"Losas, vigas y columnas","description":"Elementos, cargas y recorrido de los esfuerzos.","url":"","example":true},{"id":"unidad-3","title":"Planos y detalles de armaduras","description":"Representación, lectura y documentación de una estructura.","url":"","example":true}],
- "resources":[],"events":[],"gallery":[],"partners":[]
+  "schemaVersion": 1,
+  "settings": {
+    "siteName": "Hormigón Armado",
+    "school": "CET Nº 33",
+    "specialty": "Maestro Mayor de Obras",
+    "tagline": "Aprender cómo trabaja una estructura",
+    "intro": "Del comportamiento estructural a los planos y detalles de obra.",
+    "instagram": "",
+    "email": "",
+    "portal": ""
+  },
+  "pages": {
+    "unidades": {
+      "title": "Unidades de aprendizaje",
+      "description": "Recorrer los conceptos, comprender el comportamiento y llevarlos al plano."
+    },
+    "material": {
+      "title": "Material de consulta",
+      "description": "Bibliografía, reglamentos y apuntes para acompañar el trabajo en clase."
+    },
+    "practicos": {
+      "title": "Trabajos prácticos",
+      "description": "Consignas y documentación para aprender haciendo."
+    },
+    "proyecto": {
+      "title": "Proyecto integrador",
+      "description": "Del planteo estructural a los planos y detalles de obra."
+    },
+    "inet": {
+      "title": "Recursos INET",
+      "description": "Un espacio para reunir materiales de formación técnica."
+    },
+    "movimiento": {
+      "title": "Hormigón en movimiento",
+      "description": "Videos y animaciones para comprender cómo trabaja una estructura."
+    },
+    "calendario": {
+      "title": "Calendario",
+      "description": "Entregas, evaluaciones y encuentros de la materia."
+    },
+    "libro": {
+      "title": "Libro de temas",
+      "description": "Una memoria de lo que vamos trabajando, clase a clase."
+    },
+    "galeria": {
+      "title": "Trabajos de los estudiantes",
+      "description": "Planos, detalles, maquetas y experiencias que construimos en el aula."
+    },
+    "colaboradores": {
+      "title": "Red de colaboradores",
+      "description": "Un puente entre el aula y la práctica profesional."
+    },
+    "contacto": {
+      "title": "Contacto",
+      "description": "Un espacio para consultas sobre la materia y propuestas de colaboración."
+    },
+    "noticias": {
+      "title": "Noticias y actualidad",
+      "description": "Novedades sobre hormigón, estructuras, normativa e innovación para conectar el aula con la práctica profesional."
+    }
+  },
+  "topics": [
+    {
+      "id": "ejemplo-flexion",
+      "title": "Flexión en vigas",
+      "description": "Tracción, compresión y ubicación de las armaduras.",
+      "date": "",
+      "url": "",
+      "example": true
+    }
+  ],
+  "units": [
+    {
+      "id": "unidad-1",
+      "title": "Materiales y comportamiento estructural",
+      "description": "Hormigón, acero y trabajo conjunto de los materiales.",
+      "url": "",
+      "example": true
+    },
+    {
+      "id": "unidad-2",
+      "title": "Losas, vigas y columnas",
+      "description": "Elementos, cargas y recorrido de los esfuerzos.",
+      "url": "",
+      "example": true
+    },
+    {
+      "id": "unidad-3",
+      "title": "Planos y detalles de armaduras",
+      "description": "Representación, lectura y documentación de una estructura.",
+      "url": "",
+      "example": true
+    }
+  ],
+  "resources": [],
+  "events": [],
+  "gallery": [],
+  "partners": [],
+  "news": []
 }

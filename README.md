@@ -51,3 +51,7 @@ Repositorio: [patagoniatec-ux/hormigon-armado](https://github.com/patagoniatec-u
 ## Próxima etapa
 
 Conectar un CMS con autenticación docente, persistencia compartida y almacenamiento de imágenes. La interfaz de edición ya está preparada, pero guardar no publica hasta implementar esa conexión. La propuesta de tutor permanece pendiente de definir; esta versión no simula un servicio de IA.
+
+## Noticias y actualidad
+
+noticias.html y el inicio presentan la colección news por fecha descendente. Incluye buscador y filtros por Hormigón y materiales, Estructuras y obras, Normativa, Innovación y Aula y visitas. Las fichas admiten título, descripción, fecha, categoría, fuente, enlace original, texto completo e imagen opcional. Se cargan desde Noticias y actualidad en el editor. Guardar conserva el borrador local; para publicar, exportar y reemplazar dist/data/content.json en GitHub. Los borradores antiguos se migran sin perder sus contenidos. La colección comienza vacía, lista para notas reales.
