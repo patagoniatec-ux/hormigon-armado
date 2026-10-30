@@ -93,7 +93,15 @@
       "example": true
     }
   ],
-  "resources": [],
+  "resources": [
+    {
+      "id": "instagram-Db9SfCYk4m7",
+      "title": "Reel para Hormigón Armado",
+      "description": "Video seleccionado por el docente para compartir y comentar en clase. Fuente: Instagram.",
+      "page": "movimiento",
+      "url": "https://www.instagram.com/reel/Db9SfCYk4m7/"
+    }
+  ],
   "events": [],
   "gallery": [],
   "partners": [],
