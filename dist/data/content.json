@@ -58,6 +58,14 @@
     "noticias": {
       "title": "Noticias y actualidad",
       "description": "Novedades sobre hormigón, estructuras, normativa e innovación para conectar el aula con la práctica profesional."
+    },
+    "ensayos": {
+      "title": "Ensayos y control del hormigón",
+      "description": "Compresión de probetas, madurez y esclerometría."
+    },
+    "premoldeados": {
+      "title": "Elementos de hormigón armado",
+      "description": "Premoldeados: del molde al producto."
     }
   },
   "topics": [
