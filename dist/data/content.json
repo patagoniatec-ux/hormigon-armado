@@ -216,7 +216,18 @@
     }
   ],
   "events": [],
-  "gallery": [],
+  "gallery": [
+    {
+      "id": "a6500078-63c3-4912-b3e1-256edebf1195",
+      "title": "Vivienda de dos plantas: estructura y detalles constructivos",
+      "description": "Máximo Martín · Lámina integradora de Máximo Martín con plantas arquitectónicas y estructurales de una vivienda de dos plantas. Reúne losas, vigas, columnas y bases, detalles de armaduras y escalera, planillas y desarrollos de cálculo, además de una viga reticulada de acero.",
+      "category": "Planos y CAD",
+      "image": "assets/trabajos/maximo-martin.png",
+      "url": "https://patagoniatec-ux.github.io/hormigon-armado/dist/assets/trabajos/maximo-martin.pdf",
+      "course": "Ciclo superior · Construcciones",
+      "year": "2026"
+    }
+  ],
   "partners": [],
   "news": []
 }
