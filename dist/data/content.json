@@ -225,6 +225,16 @@
   "events": [],
   "gallery": [
     {
+      "id": "d08ca3ce-5144-498a-a089-b03df1dd24f0",
+      "title": "Vivienda de dos plantas: losas y detalles estructurales",
+      "description": "Emma Addad · Lámina integradora realizada en AutoCAD con plantas arquitectónicas, de losas, vigas, columnas y bases. Incluye fachada, corte, detalles de armaduras, losa y escalera, planillas de elementos estructurales y desarrollos de cálculo.",
+      "category": "Planos y CAD",
+      "image": "assets/trabajos/emma-addad.png",
+      "url": "https://patagoniatec-ux.github.io/hormigon-armado/dist/assets/trabajos/emma-addad.pdf",
+      "course": "3.º 2.ª · Ciclo superior",
+      "year": "2026"
+    },
+    {
       "id": "a6500078-63c3-4912-b3e1-256edebf1195",
       "title": "Vivienda de dos plantas: estructura y detalles constructivos",
       "description": "Máximo Martín · Lámina integradora de Máximo Martín con plantas arquitectónicas y estructurales de una vivienda de dos plantas. Reúne losas, vigas, columnas y bases, detalles de armaduras y escalera, planillas y desarrollos de cálculo, además de una viga reticulada de acero.",
