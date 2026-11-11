@@ -220,10 +220,26 @@
       "description": "Video seleccionado por el docente para observar y comentar en Hormigón Armado. Fuente: Instagram.",
       "page": "movimiento",
       "url": "https://www.instagram.com/reel/Deu0cmSRZub/"
+    },
+    {
+      "id": "angel-sambuesa-2026",
+      "page": "practicos",
+      "title": "Vivienda de dos plantas · Ángel Sambuesa",
+      "description": "Lámina integradora con plantas arquitectónicas, plantas de losas, vigas, columnas y bases, corte y fachada. Incluye detalles estructurales, armadura de escalera, planillas y desarrollos de cálculo.",
+      "url": "https://patagoniatec-ux.github.io/hormigon-armado/dist/assets/trabajos/angel-sambuesa.pdf"
     }
   ],
   "events": [],
   "gallery": [
+    {
+      "id": "angel-sambuesa-2026",
+      "title": "Vivienda de dos plantas · Ángel Sambuesa",
+      "description": "Ángel Sambuesa · Lámina integradora con plantas arquitectónicas, plantas de losas, vigas, columnas y bases, corte y fachada. Incluye detalles estructurales, armadura de escalera, planillas y desarrollos de cálculo.",
+      "category": "Planos y CAD",
+      "image": "assets/trabajos/angel-sambuesa.png",
+      "url": "https://patagoniatec-ux.github.io/hormigon-armado/dist/assets/trabajos/angel-sambuesa.pdf",
+      "year": "2026"
+    },
     {
       "id": "d08ca3ce-5144-498a-a089-b03df1dd24f0",
       "title": "Vivienda de dos plantas: losas y detalles estructurales",
