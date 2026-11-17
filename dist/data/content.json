@@ -66,6 +66,10 @@
     "premoldeados": {
       "title": "Elementos de hormigón armado",
       "description": "Premoldeados: del molde al producto."
+    },
+    "calculo-ia": {
+      "title": "Cálculo estructural + IA",
+      "description": "Una propuesta para recuperar el trabajo con SAP2000 y explorar ETABS junto con herramientas de inteligencia artificial. Comprender primero; modelar, analizar y verificar después."
     }
   },
   "topics": [
@@ -227,6 +231,34 @@
       "title": "Vivienda de dos plantas · Ángel Sambuesa",
       "description": "Lámina integradora con plantas arquitectónicas, plantas de losas, vigas, columnas y bases, corte y fachada. Incluye detalles estructurales, armadura de escalera, planillas y desarrollos de cálculo.",
       "url": "https://patagoniatec-ux.github.io/hormigon-armado/dist/assets/trabajos/angel-sambuesa.pdf"
+    },
+    {
+      "id": "calculo-ia-sap2000",
+      "page": "calculo-ia",
+      "title": "SAP2000 + IA: recuperar una experiencia de aula",
+      "description": "Conocer el entorno de análisis estructural y explorar cómo Python, la API de CSI y conexiones comunitarias mediante MCP pueden asistir en tareas de modelado y consulta. La conexión concreta se probará antes de usarla con estudiantes.",
+      "url": ""
+    },
+    {
+      "id": "calculo-ia-etabs",
+      "page": "calculo-ia",
+      "title": "ETABS + IA: modelar y analizar pórticos",
+      "description": "Explorar el análisis de estructuras de edificios: geometría, apoyos, cargas, esfuerzos y deformaciones. La IA puede ayudar a preparar modelos, interpretar tablas y documentar el proceso; los resultados requieren revisión técnica.",
+      "url": ""
+    },
+    {
+      "id": "calculo-ia-secuencia",
+      "page": "calculo-ia",
+      "title": "Secuencia didáctica: de la viga al edificio",
+      "description": "1) Resolver manualmente una viga simplemente apoyada. 2) Incorporar cargas y calcular reacciones. 3) Obtener diagramas de corte y momento. 4) Comparar con SAP2000. 5) Avanzar a pórticos, columnas y losas. El objetivo es comprender el comportamiento estructural, no solamente aprender comandos.",
+      "url": ""
+    },
+    {
+      "id": "calculo-ia-seguridad",
+      "page": "calculo-ia",
+      "title": "Criterio profesional y verificación",
+      "description": "La inteligencia artificial funciona como asistente de aprendizaje y automatización, no como responsable del diseño. Hipótesis, unidades, combinaciones de carga, normativa, resultados y decisiones de seguridad deben ser comprobados por el docente y por un profesional competente.",
+      "url": ""
     }
   ],
   "events": [],
