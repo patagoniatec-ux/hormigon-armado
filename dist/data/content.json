@@ -273,6 +273,13 @@
       "description": "Configuración geométrica plana mínima que, con lados de longitud fija y uniones articuladas, es indeformable. La triangulación estabiliza cerchas, puentes, torres y arriostramientos. La estabilidad geométrica no garantiza por sí sola la resistencia: también dependen de los materiales, las secciones, las uniones y las cargas.",
       "page": "material",
       "url": ""
+    },
+    {
+      "id": "tiktok-ZSseU1XVp",
+      "title": "Video de TikTok para analizar en clase",
+      "description": "Recurso audiovisual seleccionado por el docente para observar, analizar y relacionar con los contenidos de Hormigón Armado. Fuente: TikTok.",
+      "page": "movimiento",
+      "url": "https://vt.tiktok.com/ZSseU1XVp/"
     }
   ],
   "events": [],
